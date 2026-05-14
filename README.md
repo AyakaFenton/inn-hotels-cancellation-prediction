@@ -1,4 +1,3 @@
-# inn-hotels-cancellation-prediction
 # INN Hotels — Booking Cancellation Prediction
 
 **Tools:** Python · scikit-learn · statsmodels · pandas · matplotlib · seaborn  
